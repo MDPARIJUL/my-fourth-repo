@@ -1,4 +1,5 @@
 img{
     width: 200px;
     border: 5px dashed orange;
+    border-radius: 10px;
 }
